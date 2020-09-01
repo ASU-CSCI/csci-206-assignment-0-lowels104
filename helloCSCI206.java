@@ -1,5 +1,5 @@
 /*
-Author: Scott Schweizer
+Author: Levi Lowe
 Course: CSCI-206
 Assignment: 0
 */
